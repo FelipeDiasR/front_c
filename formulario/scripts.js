@@ -6,4 +6,4 @@ document.getElementById('contactForm').addEventListener('submit', function(event
     var message = document.getElementById('message').value;
 
     alert('Nome: ' + name + '\nEmail: ' + email + '\nMensagem: ' + message);
-});
+});       
